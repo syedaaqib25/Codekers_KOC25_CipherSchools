@@ -7,7 +7,7 @@ def Roman_Int(ro):
 print("1.Integer to Roman")    
 print("2.Roman to integer")
 print("3.Stop")
-#Group project 18
+#Group project 18 by Syed
 while True:
     choose = input("Enter choice(1/2/3):")
     if choose in ("1","2","3"):
@@ -43,4 +43,4 @@ while True:
     else:
         print("Invalid Input")
 print("Thank you for using converter.")
-print("Done by Syed Aaqib.")
+print("Done by Roll number 53,52,52 of KOC25.")
